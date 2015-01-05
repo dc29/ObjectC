@@ -6,6 +6,8 @@
 //  Copyright (c) 2015年 ua. All rights reserved.
 //
 
+// this is a git test file .
+
 #import <Foundation/Foundation.h>
 
 @interface NSString (DC)
